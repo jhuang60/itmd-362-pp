@@ -6,3 +6,10 @@ html {
   font-size: 1.25em; /*20/16=1.25*/
   line-height: 1.25em; /*25/20=1.25*/
 }
+body {
+  padding-left: 1.5em;/* 30/20=1.5*/
+  padding-top: 1.25em; /*25/20=1.25*/
+}
+li {
+  padding-top: 1.25em; /*25/20=1.25*/
+}
