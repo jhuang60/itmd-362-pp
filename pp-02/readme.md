@@ -12,6 +12,8 @@ Trello, or something else).
 
 Write the name of the service your group has decided to use:
 
+Basecamp group
+
 2. In your project coordination software of choice, discuss and choose one member who will create
 the free GitHub Organization account for your team. That member can click the + (plus sign) next to
 their avatar, or go straight to https://github.com/organizations/new As part of that process, the
