@@ -51,6 +51,11 @@ Once you have cloned the forked copy, you should add the *group* repository as a
 
 Write or paste the output of `git remote -v` from your copy of the forked repository here:
 
+origin	git@github.com:jhuang60/wjy-project2.git (fetch)
+origin	git@github.com:jhuang60/wjy-project2.git (push)
+team	git@github.com:wjy-itmd-362/wjy-project2.git (fetch)
+team	git@github.com:wjy-itmd-362/wjy-project2.git (push)
+
 8. Next, each group member should add to the `README.md` file his/her name, and a brief few
 sentences of what the member believes are his/her primary strengths. Prior to doing that, be sure to
 pull from the remote repo (`git pull group master`) to get any other group members’ names and
