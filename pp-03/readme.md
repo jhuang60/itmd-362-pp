@@ -11,20 +11,20 @@ Opt for the Paletton Preview mode Default with Text http://paletton.com/
 
 1. A monochromatic color palette for a site introducing a new console gaming platform
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL:  http://paletton.com/palette.php?uid=13w0u0kl7r6ef6l697cs3SgmRVy
+Your Rationale: 
 
 2. An adjacent color palette for announcing springtime tours at the Chicago Botanical Gardens
 
-Your Palette URL:
+Your Palette URL: http://paletton.com/palette.php?uid=52J0x0kl7DY%2B%2BqX%2B%2BqX00R000R0
 Your Rationale:
 
 3. A triadic color palette for styling the login page for an app for kids to learn the alphabet
 
-Your Palette URL:
+Your Palette URL: http://paletton.com/palette.php?uid=33r140kpG%2B%2B0mPx0mPxpG%2B%2BpG%2B%2B
 Your Rationale:
 
 4. A custom color palette for advertising a course on cybersecurity
 
-Your Palette URL:
+Your Palette URL: http://paletton.com/palette.php?uid=a3I0U1ktbUp%2B%2Boc%2B%2Boc02Fo02Fok00ko0X8O0X8O00y600y6
 Your Rationale:
