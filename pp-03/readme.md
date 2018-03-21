@@ -12,7 +12,10 @@ Opt for the Paletton Preview mode Default with Text http://paletton.com/
 1. A monochromatic color palette for a site introducing a new console gaming platform
 
 Your Palette URL:  http://paletton.com/palette.php?uid=13w0u0kl7r6ef6l697cs3SgmRVy
-Your Rationale: 
+Your Rationale: I picked a dark grey color for the background and a slightly gray blue to highlight
+things like menu banner and some headers because dark backgrounds and and blue are used for many gaming
+related websites such as playstation official website, and steam. These two colors together provides a
+futuristic feel.
 
 2. An adjacent color palette for announcing springtime tours at the Chicago Botanical Gardens
 
