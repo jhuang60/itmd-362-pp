@@ -20,14 +20,16 @@ futuristic feel.
 2. An adjacent color palette for announcing springtime tours at the Chicago Botanical Gardens
 
 Your Palette URL: http://paletton.com/palette.php?uid=52J0x0kl7DY%2B%2BqX%2B%2BqX00R000R0
-Your Rationale:
+Your Rationale: In my opinion green, white, and blue are good options that remind people of
+spring and having lighter colors helps the website to get a brighter feel.
 
 3. A triadic color palette for styling the login page for an app for kids to learn the alphabet
 
 Your Palette URL: http://paletton.com/palette.php?uid=33r140kpG%2B%2B0mPx0mPxpG%2B%2BpG%2B%2B
-Your Rationale:
+Your Rationale: Bright colors remind people of children playgrounds and bright and more concentrated colors
+are used on a lot of children products/toys.
 
 4. A custom color palette for advertising a course on cybersecurity
 
 Your Palette URL: http://paletton.com/palette.php?uid=a3I0U1ktbUp%2B%2Boc%2B%2Boc02Fo02Fok00ko0X8O0X8O00y600y6
-Your Rationale:
+Your Rationale: Blue and grey reminds me of anything related to technology and security.
