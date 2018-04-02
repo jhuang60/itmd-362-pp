@@ -27,11 +27,11 @@ Small commits to your Production Problems repository that include:
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
+* HCI Guidline One (URL):https://msdn.microsoft.com/library/windows/desktop/dn742449.aspx
 * How you implemented it in your sketch:
 
-* HCI Guidline Two (URL):
+* HCI Guidline Two (URL):https://material.io/guidelines/components/bottom-navigation.html#
 * How you implemented it in your sketch:
 
-* HCI Guidline Three (URL):
+* HCI Guidline Three (URL):https://developer.apple.com/ios/human-interface-guidelines/overview/themes/
 * How you implemented it in your sketch:
