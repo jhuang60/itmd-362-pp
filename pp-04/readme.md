@@ -28,10 +28,10 @@ Small commits to your Production Problems repository that include:
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
 * HCI Guidline One (URL):https://msdn.microsoft.com/library/windows/desktop/dn742449.aspx
-* How you implemented it in your sketch:
+* How you implemented it in your sketch: improving the user experience by getting rid of all extra information that the user will ignore. This will allow the user to quickly find the input boxes to login.
 
 * HCI Guidline Two (URL):https://material.io/guidelines/components/bottom-navigation.html#
-* How you implemented it in your sketch:
+* How you implemented it in your sketch: getting rid of unnecessary components like the clear button that the user will very unlikely to use. Only keeping what is necessary for a login screen, for example username and password inputs, forgot username/password, and login button, to keep everything simple. 
 
 * HCI Guidline Three (URL):https://developer.apple.com/ios/human-interface-guidelines/overview/themes/
-* How you implemented it in your sketch:
+* How you implemented it in your sketch: modify the size of text and logo images to appropriately fit the screen, and expand input boxes for better experience in small touch screens. This is necessary since the iit website's mobile scale has its input boxes for login very small and it needs the user to enlarge the screen in order to enter information on the login.
