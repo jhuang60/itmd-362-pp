@@ -15,18 +15,18 @@ your own master usability checklist.
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1.http://drpete.co/?topic=25-point-website-usability-checklist
+2.https://www.invisionapp.com/blog/usability-checklist-for-web-apps/
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Notable navigation and clear navigation labels
+2. Contents are easy to read, and all information/content given on the site must be clear
+3. Minimize page loading time, make sure that the page loads fast
+4. Easy to navigate
+5. Consistent color and style
+6. Meaningful and user-friendly urls
+7. Logo is linked to home page
+8. Reasonable amount of links and buttons
+9. Use titles in a meaningful way
+10. Responsive design
